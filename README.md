@@ -29,4 +29,4 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Jeyson20"><img src="https://github-readme-stats.vercel.app/api?username=Jeyson20&show_icons=true&theme=dark" alt="Jeyson20's GitHub stats" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)

@@ -1,5 +1,5 @@
 
-:spades:Jeyson Almonte👋
+:Jeyson Almonte👋
 ==================================
 
 **`Computer Systems Engineer`**
